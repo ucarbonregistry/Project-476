@@ -75,4 +75,75 @@ participants are applicable.
 Party (Host) Participants
 India Project Owner: M/s NSL Sugars (Tungabhadra) Limited
 Address: Desanur, Siruguppa Taluka, Ballary District, Karnataka583121, India.
+__________
+ISSUANCE DATE: 23/07/2025
+
+QTY: 507733
+
+MP-01 : 01/01/2013-31/12/2024
+
+VINTAGE: 2024: 0 CoUs
+
+VINTAGE: 2020: 0 CoUs
+_____________
+Serial Number: 0001-000001-084628-UCR-CoU-IN-476-01012013-31122013
+
+Vintage Year: 2013
+
+Quantity: 84628
+__________
+Serial Number: 0001-084629-226053-UCR-CoU-IN-476-01012014-31122014
+
+Vintage Year: 2014
+
+Quantity: 141425
+_____________
+Serial Number: 0001-226054-354978-UCR-CoU-IN-476-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 128925
+_____________
+Serial Number: 0001-354979-422507-UCR-CoU-IN-476-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 67529
+____________
+Serial Number: 0001-422508-431886-UCR-CoU-IN-476-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 9379
+____________
+Serial Number: 0001-431887-438474-UCR-CoU-IN-476-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 6588
+____________
+Serial Number: 0001-438475-448182-UCR-CoU-IN-476-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 9708
+____________
+Serial Number: 0001-448183-451755-UCR-CoU-IN-476-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 3573
+_____________
+Serial Number: 0001-451756-476756-UCR-CoU-IN-476-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 25001
+_________________
+Serial Number: 0001-476757-507733-UCR-CoU-IN-476-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 30977
+_____________
 
